@@ -27,7 +27,7 @@ Usage
       -t    Number of sender threads.
       -p	Port scan range. For instance, 80 or 20-80.
       -d	Delay between packages sent (in usecs).
-      -s	No service identification (less bandwith load, more hosts/time).
+      -s	No service identification (less bandwidth load, more hosts/time).
       -m	Module to run. For instance, Service.
       -h	Show this help.
       [targets] Ip address seed. For instance, 192.168.1. or 1.1.1.1-255.0.0.0
